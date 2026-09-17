@@ -14,7 +14,7 @@ tecnologia: "Node.js, Express y TypeScript",
 estudiante1: "Brenda Naomy Santos Chay",
 matricula1: "25309088",
 estudiante2: "Itzel Nicte-Ha Miranda Manuel",
-matricula2: "2530xxxx"
+matricula2: "25308154"
 });
 });
 app.listen(puerto, () => {

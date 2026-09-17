@@ -5,6 +5,7 @@ return (
 <p>Estudiante1: Brenda Naomy Santos Chay</p>
 <p>Matrícula1: 25309088</p>
 <p>Estudiante2: Itzel Nicte-Ha Miranda Manuel</p>
+<p>Matrícula2: 25308154</p>
 <h2>Front end</h2>
 <p>Interfaz creada con React y TypeScript.</p>
 <h2>API REST</h2>
